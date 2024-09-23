@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
-<h3 align="center">A passionate agriculturist from India</h3>
-
-- 🔭 I’m currently pursuing **graduation**
+<h3 align="center">A B.sc.(Hons.) Agriculture student passionate to inculcate IOT and Artificial intelligence to agricultural farms.</h3>
 
 - 🌱 I’m currently learning **B.sc.(Hons.)Agriculture**
 
